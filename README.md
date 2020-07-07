@@ -41,8 +41,8 @@ uvicorn server:app --reload --port 9999
 ```
 <!-- USAGE EXAMPLES -->
 ## Documentation
-[Postman collction](https://documenter.getpostman.com/view/11156949/T17J9mzC?version=latest)
-After starting the server docs can be found here.
+- [Postman Docs](https://documenter.getpostman.com/view/11156949/T17J9mzC?version=latest)
+- After starting the server docs can be found here.
 - http://localhost:9999/docs#/ 
 - You should see something like this.
 -![Imgur](fastAPI_docs.png)
