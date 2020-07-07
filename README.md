@@ -4,6 +4,9 @@ You can find it [here](https://www.kaggle.com/stackoverflow/stacksample).
 
 ## Getting Started
 
+P.S => For notebook.ipynb you can directly run the entire notebook and a flask API will be deployed.Use that for testing purose.All the
+instructions are mentioned in the notebook.
+
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
